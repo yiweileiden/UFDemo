@@ -10,6 +10,11 @@ public class Demo : MonoBehaviour
         float j = 1f;
     }
 
+    void CreateA()
+    {
+        float a = 3f;
+    }
+
     // Update is called once per frame
     void Update()
     {
